@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'photofy'
-  s.version = '0.5.0'
+  s.version = '0.5.0.1'
   s.date = '2016-07-21'
   s.summary = "Photofy"
   s.description = <<-EOF
@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.email = 'support@workinggrouplink.com'
   s.files = Dir["{lib}/**/*", "README.md"]
   s.licenses = ['MIT', 'GPL-2']
-  s.homepage = 'http://praveenkumarsinha.github.io/Photofy'
+  s.homepage = 'http://mbijon.github.io/Photofy/'
   s.post_install_message = "Thanks for installing Photofy."
 end
